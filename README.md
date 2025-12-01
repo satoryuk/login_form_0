@@ -8,7 +8,7 @@ This project includes animations, form validation, and a beautiful UI suitable f
 ## 🔗 Live Demo
 
 👉 **View Demo:**  
-[https://your-project-demo-url.com ](https://modernauth.vercel.app/) 
+[https://project-demo-url.com ](https://modernauth.vercel.app/) 
 
 ---
 
